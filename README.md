@@ -32,12 +32,13 @@
   <ul>
     <li><a href="#">Ruby on Rails</a></li>
   </ul>
-<summary>JavaScript</summary>
-  <ul>
-    <li><a href="#">React</a></li>
-  </ul>
 </details>
-
+<details>
+  <summary>JavaScript</summary>
+    <ul>
+      <li><a href="#">React</a></li>
+    </ul>
+</details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
