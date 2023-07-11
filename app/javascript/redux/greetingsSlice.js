@@ -9,14 +9,6 @@ const initialState = {
 }
 
 export const getGreetings = createAsyncThunk('greetings/getGreetings', async () => {
-  // try {
-  //   const response = await axios.get(url);
-  //   const data = response.data;
-  //   console.log(data);
-  //   return data;
-  // } catch (error) {
-  //   return error.message
-  // }
     const response = await fetch('api/greetings');
     const data = await response.json();
     if (response.status < 200 || response.status >= 300) {
