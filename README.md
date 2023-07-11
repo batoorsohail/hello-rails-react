@@ -32,6 +32,10 @@
   <ul>
     <li><a href="#">Ruby on Rails</a></li>
   </ul>
+<summary>JavaScript</summary>
+  <ul>
+    <li><a href="#">React</a></li>
+  </ul>
 </details>
 
 <!-- Features -->
@@ -59,7 +63,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd <desired-folder>
-  git clone https://github.com/batoorsohail/blog-app.git
+  git clone https://github.com/batoorsohail/hello-rails-react.git
 ```
 
 ### Install <a name="install"></a>
@@ -97,7 +101,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-We will add features that users can delete comments.
+Users will be able to add there names
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
