@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 ### Install <a name="install"></a>
 
 ```sh
-  cd blog-app
+  cd hello-rails-react
   bundle install
 ```
 
