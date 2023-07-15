@@ -74,12 +74,6 @@ Clone this repository to your desired folder:
   bundle install
 ```
 
-### Usage <a name="usage"></a>
-
-```sh
-  rails s
-```
-
 ### Test <a name="test"></a>
 
 ```sh
